@@ -1,0 +1,41 @@
+.container {
+max-width: 700px;
+margin: 0 auto;
+background-color: skyblue;
+padding: 20px ;
+}
+
+header{
+    background-color: green;
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+p{
+    text-align: justify;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid aqua;
+}
+
+th, td {
+    text-align:left ;
+    padding: 8px;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
